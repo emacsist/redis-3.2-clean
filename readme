@@ -1,0 +1,2 @@
+wget -c https://raw.githubusercontent.com/emacsist/redis-3.2-clean/master/redis-cli .
+chmod u+x redis-cli
